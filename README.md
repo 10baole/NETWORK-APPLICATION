@@ -3,7 +3,7 @@
 Bước 1: Chạy tracker
 python tracker.py
 
-Bước 2: Tạo từng node (Tạo nhiều terminal)
+Bước 2: Tạo từng node (Tạo nhiều terminal)\n
 python node.py -node_id 1
 python node.py -node_id 2
 python node.py -node_id 3
