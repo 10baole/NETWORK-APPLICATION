@@ -106,10 +106,3 @@ MDDT enables nodes to:
 
 ## Contributing
 Feel free to fork the repository, create a new branch, and submit pull requests for improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-Special thanks to all contributors for making this project possible.
-
